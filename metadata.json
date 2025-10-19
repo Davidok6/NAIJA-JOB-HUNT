@@ -1,0 +1,5 @@
+{
+  "name": "Naija Job Hunt",
+  "description": "An AI-powered resume analyzer that helps job seekers in Nigeria optimize their resumes against job descriptions. It provides an ATS score, keyword suggestions, and uses a 'Quantification Engine' to turn responsibilities into measurable achievements.",
+  "requestFramePermissions": []
+}
